@@ -1,2 +1,3 @@
 # Snake_Game
-Mobile Snake Game
+Basic Mobile Snake Game
+- Developed in beginner mobile app course using MIT App Inventor 2
